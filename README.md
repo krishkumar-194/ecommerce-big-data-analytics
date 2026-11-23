@@ -73,4 +73,13 @@ This project demonstrates how Apache Spark can process and analyze large e-comme
 Bishnu Kumar
 
 B.Tech CSE (AI & ML)
+## Project Visualizations
 
+### Category Revenue
+![Category Revenue](reports/screenshots/category_revenue.png)
+
+### City Revenue
+![City Revenue](reports/screenshots/city_revenue.png)
+
+### Monthly Revenue
+![Monthly Revenue](reports/screenshots/monthly_revenue.png)
